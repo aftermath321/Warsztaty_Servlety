@@ -31,7 +31,9 @@
 
         <!-- Sidebar Toggler (Sidebar) -->
         <div class="text-center d-none d-md-inline">
+            <a href="/user/list">
             <button class="rounded-circle border-0" id="sidebarToggle"></button>
+            </a>
         </div>
 
     </ul>
